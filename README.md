@@ -1,8 +1,5 @@
-Bahamut_pic_fetcher
-===================
-#巴哈姆特圖片抓取器#
-<br>
-
+#Bahamut_pic_fetcher#<br>
 ##How to use it ##
-<br>
+> You have to try this
+> 123
 
